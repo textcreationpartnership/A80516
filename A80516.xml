@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a remonstrance setting forth the sad condition of the army under the command of the Right Honourable the Lord Baron of Inchequine, Lord President of Munster. Drawn by the councell of war the 23 of June, 1647. and sent to both houses of Parliament. By their agents, being members and officers of the army, viz. [brace] Lieut. Col. Stubber Major Choppyne. Major Elsynge. And was accordingly by them presented July 14. 1647. Together with a short vindication of the Right Honourable the Lord Inchequin and other officers of that army from a scandalous and seditious pamphlet, stiled A letter from Lieut. Col. Knight in the province of Munster in Ireland, setting forth the extraordinary wants of the souldiers, &amp;c. and published July 22. 1647. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80516</idno>
+            <idno type="STC">Wing C6190</idno>
+            <idno type="STC">Thomason E399_33</idno>
+            <idno type="STC">ESTC R201732</idno>
+            <idno type="EEBO-CITATION">99862231</idno>
+            <idno type="PROQUEST">99862231</idno>
+            <idno type="VID">114382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114382)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a remonstrance setting forth the sad condition of the army under the command of the Right Honourable the Lord Baron of Inchequine, Lord President of Munster. Drawn by the councell of war the 23 of June, 1647. and sent to both houses of Parliament. By their agents, being members and officers of the army, viz. [brace] Lieut. Col. Stubber Major Choppyne. Major Elsynge. And was accordingly by them presented July 14. 1647. Together with a short vindication of the Right Honourable the Lord Inchequin and other officers of that army from a scandalous and seditious pamphlet, stiled A letter from Lieut. Col. Knight in the province of Munster in Ireland, setting forth the extraordinary wants of the souldiers, &amp;c. and published July 22. 1647. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.W. and H.A.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In part a reply to: Knight, R.  Letter from Lieutenant Colonel Knight in the province of Munster in Ireland (Wing K692).</note>
+                  <note>Annotation on Thomason copy: "July 24th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Knight, R., --  Lieutenant Colonel. --  Letter from Lieutenant Colonel Knight in the province of Munster in Ireland --  Early works to 1800.</term>
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114382:1" rendition="simple:additions"/>
+            <p>A Copy of a REMONSTRANCE Setting forth The ſad condition of the Army under the command of the Right Honourable the <hi>Lord Baron of</hi> INCHEQUINE, <hi>Lord Preſident of</hi> Munſter.</p>
+            <p>Drawn by the Councell of war the 23 of <hi>June,</hi> 1647. and ſent to both houſes of Parliament</p>
+            <p>By their Agents, being Members and Officers of the Army, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>Lieut. Col. <hi>Stubber</hi>
+               </item>
+               <item>Major <hi>Choppyne.</hi>
+               </item>
+               <item>Major <hi>Elſynge.</hi>
+               </item>
+            </list>
+            <p>And was accordingly by them preſented <hi>July</hi> 14. 1647.</p>
+            <p>Together with a ſhort Vindication of the Right Honourable the Lord <hi>Inchequin</hi> and other Officers of that Army from a ſcandalous and ſeditious Pamphlet, ſtiled <hi>A</hi> LETTER <hi>from Lieut. Col.</hi> Knight <hi>in the Province of Munſter in Ireland, ſetting forth the extraordinary wants of the Souldiers, &amp;c. and publiſhed July</hi> 22. 1647.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>M. W.</hi> and <hi>H. A.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114382:2"/>
+            <pb facs="tcp:114382:2"/>
+            <head>TO THE HONOURABLE THE Commons in Parliament Aſſembled at WESTMINSTER.</head>
+            <head type="sub">The humble Remonſtrance of the ſeverall <hi>Colonels,</hi> and Field Officers of the Army in the <hi>Province</hi> of <hi>Munſter,</hi> under the Command of the Right Honourable the <hi>Lord Barron of</hi> Inchequin, <hi>Lord Preſi<g ref="char:EOLhyphen"/>dent of the ſame.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">D</seg>Eclaring that the ſenſibility each of us had within himſelfe, of the condition the Souldier under our perticuler Commands at the preſent ſtands in; as alſo the great worke we have undertaken in this <hi>Province,</hi> for the eſtabliſhment of Religion, and reducing the Iriſh Rebels to obedience, (of both which we know we are to give both God, and this Honourable Houſe an accompt) drew us to a meeting the 23. <hi>Iune</hi> 1647. where we looked not back to what we were before the <hi>Right Honourable</hi> the <hi>Lord Liſle</hi> his Commiſſion for the Lievtenancy of this King<g ref="char:EOLhyphen"/>dome was expired, but caſt our beſt eyes on the poſture the Army hath been ſince in, and is at this preſent day, and by what meanes
+<pb n="2" facs="tcp:114382:3"/>the Warre might be carryed on here, to the beſt advantage of the publique. Thereupon we thought it our duties, to repreſent to this Honourable Houſe in what an exiſtence we were at his Lord<g ref="char:EOLhyphen"/>ſhips departure hence, and what hath accrued unto us ſince for the ſupportation of the Army; by examination of the providory, as he informed the <hi>Lord Preſident</hi> we find with him at the Lord Lievte<g ref="char:EOLhyphen"/>nant his departure out of this Kingdome the 17. of <hi>Aprill</hi> laſt paſt, but 1300 l. worth of proviſion of all ſorts, in the Treaſurers hand of the 25000 l. the <hi>Lord Lievtenant</hi> brought over but 6220 l. 14 s. 2. d. of the Exciſe, Contribution Money, Cuſtomes, Cuſtodium money, (and the like) in the ſaid Treaſurers hand but 486 l. 13. s. 6. d. of the groſſe ſumme of 1562 l. 4 s. 6 d. by him received, du<g ref="char:EOLhyphen"/>ring his Lordſhips being here for the ſame, as the <hi>Deputy Treaſurer</hi> hath delivered unto us under his hand; out of all which there was paid towards a weekes allowance due to the Army upon his Lord<g ref="char:EOLhyphen"/>ſhips going away, 1974 l. 9. s. 3. d. ſo that the whole money then left for the Army was declaro but 4732 l. 8. s. 5. d. Since which time there was ſent over for the Armies uſe, 5000 l. in money, which the ſeverall acceſſes of Horſe, and Foot ſent over hither to increaſe the Army, did ſo ſuddenly exhauſt, (they coming over bare, and unſupplied) that both the old, and new Souldier hath been ſo ſcanted of meanes, that it hath cauſed a great mortallity in the Souldiers of both ſorts, divers of them (even to a conſiderable number) being meerly famiſhed, beſides ſeverall both Horſe, and Foot, who to ſhun hunger (as we ſuppoſe) have run away to the Rebels, ſo that of 10606. Horſe, and Foot, beſides the trayne (ac<g ref="char:EOLhyphen"/>cording to the Commiſſaries book given in to the Lord Preſident lately) we doe verily beleeve, there are now not above 9000. ſick, and whole; our Ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſon Streets preſent unto us every dayſad ſpecta<g ref="char:EOLhyphen"/>cles of many weak, ſick, and feeble Souldiers, beſides what lye ſick in their quarters unſeen, and in the ſeverall Hoſpitals, and moſt of them for want of meanes; ſince that 5000 l. there came 1560. quar<g ref="char:EOLhyphen"/>ters of Peaſe, 360. quarters of Wheat, 22389. weight of Cheeſe, all the Wheat, and Peaſe, except 450. quarters of the Peaſe (as by the Commiſſaries certificate under his hand appeares) is ſpent, whoſe certificates, as alſo the ſeverall others formerly herein men<g ref="char:EOLhyphen"/>tioned, we have ſent by our Agents (for our further juſtification)
+<pb n="3" facs="tcp:114382:3"/>there being nothing elſe to give the Souldier, except now, and then 6. d. a weeke in money, when Exciſe, Contribution, or the like comes in, And as we have herein repreſented the ſad condition of the private Souldier, ſo we cannot but declare herein likewiſe, the preſſing neceſſities of the Officers in Generall, many of them being in a worſe condition then the Ordinary. Souldier, not re<g ref="char:EOLhyphen"/>ceiving for many monethes together any thing at all, whereby to give them a ſubſiſtance, yet notwitſtanding the indigency of this our ſad condition, we are willing and ever ſhall be to engage our lives, and fortunes, through the greateſt difficulties to the promot<g ref="char:EOLhyphen"/>ing of the Proteſtant cauſe in hand, as formerly we have been, having during the time we had ſcarce a competent ſubſiſtance it ſelf, applyed our utmoſt endeavours to the carrying on of the ſervice, wherein the Lord bleſſed us with much ſucceſſe, by taking <hi>Drum<g ref="char:EOLhyphen"/>managh, Cappaquin,</hi> and <hi>Dungarvan,</hi> all very conſiderable Garri<g ref="char:EOLhyphen"/>ſons, but now our proviſions, (the remainder of the Peaſe, and Cheeſe excepted) being exhauſted, no money in the Treaſury, the Contribution but monethly, the Exciſe, and other caſualties un<g ref="char:EOLhyphen"/>certaine, and the Souldier wanting clothes to cover nakedneſſe, Hoſe, and Shooes for their Leggs, and Feet, whereby they are not able to march, or lye in the field, and the impoſſibility of making proviſion (if we had it) uſefull for the Army when it goes abroad, for want of convenient Carriages, together with the weakneſſe of the Army, coming home from their laſt march almoſt ſterved, this Countrey at this time affording little or no proviſi<g ref="char:EOLhyphen"/>ons, we are too neceſſitated not to engage the whole Army into the field, or before any Town, untill we ſhall receive freſh ſupplyes to enable us, and ſtrengthen the Souldier for ſome future expedi<g ref="char:EOLhyphen"/>tion; and we muſt keep the Garriſons we have poſſeſſed our ſelves of, with our beſt endeavours; yet to prejudice the Enemy as much as our diſability will ſuffer us, we have conceived it in our opini<g ref="char:EOLhyphen"/>ons (at this debate) moſt conducible for the advanceing the buſi<g ref="char:EOLhyphen"/>neſſe in hand, untill the Honourable Houſes of Parliament ſhall pleaſe to looke more auſpiciouſly on us, (their poore Miniſters in this worke) and extend a larger hand unto us, that the Horſe ſhall quarter upon the Fronteirs beyond the black water, and as many of the Foot as conveniently can be releived with ſuch proviſions
+<pb n="4" facs="tcp:114382:4"/>as are left us, ſo long as they will hold out, ſhall be ſent out or their Garriſons to lye at or neere <hi>Mallowe,</hi> to the end they may an<g ref="char:EOLhyphen"/>noy the Rebels, as oppertunity ſhall give way. But as we are bold to preſent our wants, and by the repreſentation of them, to implore for meanes of ſubſiſtance, to ripen ſo good a worke, ſo we heartily deſire that this our humble Remonſtrance may not appeare to this Honourable Houſe (to whom we labour to approve our ſelves) either an expreſſion of our unwillingneſſe to goe forward with the work, or a repining at the Honourable Houſes dealing with us, but rather (as in truth it is) to endeavour the contrary, <hi>viz.</hi> an un<g ref="char:EOLhyphen"/>doubted willingneſſe and earneſt alacrity to goe through with it, according to our abilities, and ſupplies, To which purpoſe that we may not be thought to aske leſſe then the condition we are in raiſeth expectation, we ſhall humbly intreat, that ſome perſon, or perſons of quality and truſt, may be ſent hither to audite exactly the accompts of all the profits, rents, cuſtomes contribution, and Ex<g ref="char:EOLhyphen"/>ciſe, (or whatſoever elſe is or may be an advantage to the State) amounteth unto, to the end that thoſe that faithfully deſire, and ſecond their deſires with endeavours, may not ſuffer in their re<g ref="char:EOLhyphen"/>putation under the ſevere cenſure of being careleſſe in their actions for the publique, or cold in their performances. Theſe accompts we the rather deſire may be taken by ſome of the Honourable Hou<g ref="char:EOLhyphen"/>ſes owne appointing, leaſt it ſhould be conceived, or reported, that the moneyes, and proviſions already left, and received here, and the emergent profits of this place have beene, are, or may be ſuffici<g ref="char:EOLhyphen"/>ent to carry on the great weight of this Warre: As alſo becauſe we here cannot as yet give any certaine intimation to this Honourable Houſe, of ſo uncertaine a Revenew, which is not yet ſetled, and therefore not in a capacity to diſcharge the weekly burthen of this Army. All which we, who can act no further then the influence of the Honourable Houſes will enable us to move, preſent for our ſelves, and the whole Army, who (together with them) acknow<g ref="char:EOLhyphen"/>ledge our ſelves</p>
+            <closer>
+               <signed>Your Honours moſt humble Servants.</signed>
+            </closer>
+         </div>
+         <div type="lists">
+            <pb facs="tcp:114382:4"/>
+            <list>
+               <head>The ſeverall Colonels.</head>
+               <item>Robert Sterling.</item>
+               <item>Percy Smith.</item>
+               <item>William Fenton.</item>
+               <item>Thomas Serle.</item>
+               <item>Francis Courtney.</item>
+               <item>Sym. Wedham.</item>
+               <item>Francis Roe.</item>
+            </list>
+            <list>
+               <head>The ſeverall Lieut. Colonels.</head>
+               <item>Will. Kingeſmill.</item>
+               <item>Will. Knight.</item>
+               <item>Peter Stubber.</item>
+               <item>Iohn Iephſon.</item>
+               <item>Step. Brodrip.</item>
+               <item>Peter Criſpe.</item>
+               <item>Walter Croker.</item>
+               <item>Daniel Watkins.</item>
+               <item>Tho. Dowridge.</item>
+            </list>
+            <list>
+               <head>The ſeverall Sergeant Majors.</head>
+               <item>Piercy Bavaſtre,</item>
+               <item>N. Purdon.</item>
+               <item>William Courteney.</item>
+               <item>Iohn Gifford.</item>
+               <item>Warham St. Leger.</item>
+               <item>William Patterſon.</item>
+               <item>Hayward St. Leger.</item>
+               <item>Iohn Coppyne.</item>
+               <item>Richard May.</item>
+               <item>Phillip Pinchon.</item>
+               <item>Tho. Marſhall.</item>
+               <item>Chriſt. Elſynge.</item>
+               <item>Nich. Pyne.</item>
+               <item>William Ryves.</item>
+               <item>Daniel Bolton.</item>
+               <item>Iohn Daniell.</item>
+               <item>William Harding.</item>
+            </list>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:114382:5"/>
+            <p>We (whoſe names are ſubſcribed) being lately imployed unto the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onorable houſes of Parliament by the army in Munſter, (whereof <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e are members) to bring over the above mentioned Remonſtrance, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d intruſted alſo to ſollicite, and negotiate a ſpeedy ſupply unto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, in order whereunto we have delivered the ſame to either houſe of Parliament, whereof wee expect a comfortable anſwer, and re<g ref="char:EOLhyphen"/>turne, Have thought fit to publiſh the ſaid remonſtrance, for two rea<g ref="char:EOLhyphen"/>ſons; Firſt, that all good Chriſtians taking notice thereby in what a dangerous, deſperate, and ſad condition that bleeding <hi>Province</hi> now ſtands, may be moved to contribute the more cheerfully in their perſons, purſes, and prayers, to the extreame neceſſity thereof, to the preſervation from utter ruine of many thouſands of afflicted Pro<g ref="char:EOLhyphen"/>teſtants, with the intereſt of the Engliſh Nation there; And ſecond<g ref="char:EOLhyphen"/>ly, for that there is come unto our veiw, a Letter lately Printed, ſuppoſed to be written by Lieu. Colonell <hi>Knight,</hi> contayning ma<g ref="char:EOLhyphen"/>ny falſe, ſcandalous, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>alitious invectiv<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> againſt the perſon, and Government of the ſaid <hi>Lord Preſident,</hi> and much derogating from the honor and reputation of the Army in generall, and of ſome particular officers therein, in whoſe vindication wee know, and declare, that the materiall obiections therein mentioned ei<g ref="char:EOLhyphen"/>ther againſt the <hi>Lord preſident,</hi> or the reſt, are falſe, injurious, and unworthy credit, and that (beſides what is there affirmed of the miſery, and ſcarſity of the Souldiers) there is little, or no man<g ref="char:EOLhyphen"/>ner of Truth mentioned in the ſaid Letter, which wee believe the ſaid Lieu. Colonell <hi>Knight</hi> did not write, but that it is counterfeited, and contrived by ſome diſaffected perſon to the parties concerned therein, of purpoſe to caſt aſpertions undeſer<g ref="char:EOLhyphen"/>vedly upon them, And the reaſons moving us ſo to thinke are, that the ſaid Lieut. Colonell did contribute his endeavours in the compoſure of the ſaid Remonſtrance, which is inconſiſtent with that Letter, and did ſubſcribe the ſame, and that a perſon who holds ſo eminent a place in that Army, cannot act ſo much beneath himſelf, as to be the Author of ſo many palpable, and malitious untruths, as that Letter inſinuates.</p>
+            <closer>
+               <signed>Peter Stubber. Ioh. Choppyne. Chriſto. Elſyng.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
